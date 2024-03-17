@@ -8,6 +8,9 @@
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 
+/* Tecnologia */
+@import "./home/tecnologia.css";
+
 /* Componentes, tipografia e cores */
 @import "./utilidades/componentes.css";
 @import "./utilidades/tipografia.css";
