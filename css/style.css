@@ -1,11 +1,12 @@
-/* Reset CSS, Header e Footer */
-@import "./global/global.css";
-@import "./global/header.css";
-
 /* Componentes, tipografia e cores */
 @import "./utilidades/componentes.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
+
+/* Reset CSS, Header e Footer */
+@import "./global/global.css";
+@import "./global/header.css";
+@import "./global/footer.css";
 
 /* Home */
 @import "./home/introducao.css";
