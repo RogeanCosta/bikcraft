@@ -2,6 +2,11 @@
 @import "./global/global.css";
 @import "./global/header.css";
 
+/* Componentes, tipografia e cores */
+@import "./utilidades/componentes.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
+
 /* Home */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
@@ -11,7 +16,5 @@
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 
-/* Componentes, tipografia e cores */
-@import "./utilidades/componentes.css";
-@import "./utilidades/tipografia.css";
-@import "./utilidades/cores.css";
+/* Seguros */
+@import "./seguros/seguros.css";
